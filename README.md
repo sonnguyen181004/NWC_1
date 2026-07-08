@@ -174,5 +174,5 @@ python generate_theory_docx.py
 
 ## 👤 Tác giả
 
-**Nguyen Tan Son** — FPT University  
+**Nguyen  Son** — FPT University  
 GitHub: [@sonnguyen181004](https://github.com/sonnguyen181004)
